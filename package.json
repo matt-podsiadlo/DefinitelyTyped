@@ -2,14 +2,14 @@
   "private": true,
   "name": "definitely-typed",
   "version": "0.0.1",
-  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+  "homepage": "https://github.com/matt-podsiadlo/DefinitelyTyped",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+    "url": "git+https://github.com/matt-podsiadlo/DefinitelyTyped+git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+    "url": "https://github.com/matt-podsiadlo/DefinitelyTyped/issues"
   },
   "engines": {
     "node": ">=7.8.0"
